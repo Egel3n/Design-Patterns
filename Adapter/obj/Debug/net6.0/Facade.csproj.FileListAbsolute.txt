@@ -1,0 +1,5 @@
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache

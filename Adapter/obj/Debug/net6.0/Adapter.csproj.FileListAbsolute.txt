@@ -1,0 +1,15 @@
+C:\Users\egege\Desktop\Design Patterns\Facade\bin\Debug\net6.0\Adapter.exe
+C:\Users\egege\Desktop\Design Patterns\Facade\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\egege\Desktop\Design Patterns\Facade\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\egege\Desktop\Design Patterns\Facade\bin\Debug\net6.0\Adapter.dll
+C:\Users\egege\Desktop\Design Patterns\Facade\bin\Debug\net6.0\Adapter.pdb
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.dll
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.pdb
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\egege\Desktop\Design Patterns\Facade\obj\Debug\net6.0\ref\Adapter.dll

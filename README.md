@@ -1,8 +1,8 @@
 # Design-Patterns
 ###Basic Implementations of Design Patterns.
 ##### Design Patterns Are Listed Below : 
-⋅⋅* Abstract Factory
-⋅⋅* Adapter
+* Abstract Factory
+* Adapter
 ⋅⋅* Bridge
 ⋅⋅* Builder
 ⋅⋅* Chain Of Responsibility

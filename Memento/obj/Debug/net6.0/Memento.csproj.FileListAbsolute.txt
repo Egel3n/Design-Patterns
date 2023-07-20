@@ -1,0 +1,15 @@
+C:\Users\egege\Desktop\Design Patterns\Memento\bin\Debug\net6.0\Memento.exe
+C:\Users\egege\Desktop\Design Patterns\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\Users\egege\Desktop\Design Patterns\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\Users\egege\Desktop\Design Patterns\Memento\bin\Debug\net6.0\Memento.dll
+C:\Users\egege\Desktop\Design Patterns\Memento\bin\Debug\net6.0\Memento.pdb
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.csproj.AssemblyReference.cache
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.dll
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.pdb
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\Users\egege\Desktop\Design Patterns\Memento\obj\Debug\net6.0\ref\Memento.dll

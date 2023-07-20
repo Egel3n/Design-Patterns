@@ -1,0 +1,15 @@
+C:\Users\egege\Desktop\Design Patterns\Command\bin\Debug\net6.0\Command.exe
+C:\Users\egege\Desktop\Design Patterns\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\egege\Desktop\Design Patterns\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\egege\Desktop\Design Patterns\Command\bin\Debug\net6.0\Command.dll
+C:\Users\egege\Desktop\Design Patterns\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.dll
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\egege\Desktop\Design Patterns\Command\obj\Debug\net6.0\ref\Command.dll

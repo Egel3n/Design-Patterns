@@ -23,3 +23,5 @@
 * State
 * Strategy
 * Template Method
+* Thread-safe Singleton
+* Visitor
